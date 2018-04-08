@@ -29,7 +29,7 @@ namespace GigHub.Migrations
                 new Genre { Id= 1, Name = "Jazz" },
                 new Genre { Id= 2, Name = "Blues" },
                 new Genre { Id= 3, Name = "Rock" },
-                new Genre { Id= 3, Name = "Country" }
+                new Genre { Id= 4, Name = "Country" }
                 );
         }
     }
