@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace GigHub.ViewModels
 {
-    public class HomeViewModel
+    public class FollowingsViewModel
     {
-        public IEnumerable<Gig> UpcomingGigs { get; set; }
+        public IEnumerable<ApplicationUser> ArtistsFollowed { get; set; }
         public bool ShowAction { get; set; }
     }
 }

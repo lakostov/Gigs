@@ -132,3 +132,13 @@ left: 70px;
     .gigs > li .details .genre {
         font-size: 15px;
     }
+.voffset1 {margin-top: 10px;}
+.voffset2 {
+    margin-top: 20px;
+}
+.voffset3 {
+    margin-top: 40px;
+}
+.voffset4 {
+    margin-top: 80px;
+}
