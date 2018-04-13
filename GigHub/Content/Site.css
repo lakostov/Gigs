@@ -63,7 +63,7 @@ h6,
 }
 .form-control {
     font-size: 17px;
-    padding: 20px 15px;
+    height: 44px;
     border-radius: 9px;
 }
     .form-control:focus {
@@ -141,4 +141,11 @@ left: 70px;
 }
 .voffset4 {
     margin-top: 80px;
+}
+.gigs > li .actions {
+    font-size: 15px;
+    display: none;
+}
+.gigs > li:hover .actions {
+    display: block;
 }
